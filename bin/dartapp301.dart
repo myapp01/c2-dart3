@@ -9,5 +9,5 @@ void main(){
 
 
   //print(msg + fullname);
-  //print(age);
+  print('$msg, My name is $fullname, My age is $age, $current'); //String literal
 }
